@@ -1,0 +1,11 @@
+// counter
+export const INCREMENT = 'INCREMENT';
+
+export const DECREMENT = 'DECREMENT';
+
+// user
+export const ADD_USER = 'ADD_USER';
+
+export const FETCH_USER_DATA_SUCCESS = 'FETCH_USER_DATA_SUCCESS';
+export const FETCH_USER_DATA_REQUEST = 'FETCH_USER_DATA_REQUEST';
+export const FETCH_USER_DATA_FALIURE = 'FETCH_USER_DATA_FALIURE';
